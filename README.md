@@ -1,6 +1,4 @@
-<div id = "header" align = "">
   <h3 align = ""> Hi there!👋</h3>
-</div>
 <!--
 **Luzve/Luzve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
